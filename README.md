@@ -561,11 +561,14 @@ MIT License
 - GitHub **唔會自動執行**此檔案，只有使用者手動執行先會生效。
 - 建議只用於學習或測試用途。
 
-## 🚀 使用方法
-1. 確保已安裝 Python  
-2. 下載或 clone 專案  
-3. 執行 `.bat` 檔案  
-4. 瀏覽器會自動打開 [http://127.0.0.1:5173](http://127.0.0.1:5173)
+🚀 快速開始
+Windows
+安裝 Python 3.8+
+執行 run.bat
+
+macOS
+安裝 xcode-select --install
+執行 start.command
 
 ## 📄 License
 此檔案僅供學習及示範用途，請勿用於生產環境。
