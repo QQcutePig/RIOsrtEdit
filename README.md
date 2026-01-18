@@ -1,7 +1,9 @@
 # 🎬 RIOsrtEdit - 字幕編輯工具
 <img width="3824" height="1790" alt="image" src="https://github.com/user-attachments/assets/eab2e38f-2dfe-4bb4-97b7-501dc4e20995" />
 
-🚀 快速開始 Windows 前置需求: 
+
+🚀 快速開始
+Windows 前置需求: 
 安裝 Python 3.8+ 
 執行 run.bat
 
