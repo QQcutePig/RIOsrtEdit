@@ -1,5 +1,5 @@
 # 🎬 RIOsrtEdit - 字幕編輯工具
-<img width="3824" height="1790" alt="image" src="https://github.com/user-attachments/assets/eab2e38f-2dfe-4bb4-97b7-501dc4e20995" />
+<img width="3824" height="1790" alt="image" src="https://raw.githubusercontent.com/QQcutePig/RIOimgDownload/refs/heads/main/1.jpg" />
 
 
 🚀 快速開始
