@@ -1,6 +1,21 @@
 # 🎬 RIOsrtEdit - 字幕編輯工具
 <img width="3824" height="1790" alt="image" src="https://github.com/user-attachments/assets/eab2e38f-2dfe-4bb4-97b7-501dc4e20995" />
 
+🚀 快速開始 Windows 前置需求: 
+安裝 Python 3.8+ 
+執行 run.bat
+
+macOS 前置需求:
+安裝 xcode-select --install 
+執行 start.command
+
+Linux 啟動 前置需求:
+sudo apt install python3
+Ubuntu/Debian sudo dnf install python3
+Fedora/RHEL sudo pacman -S python
+Arch
+執行 start.sh 啟動
+
 **一個功能完整字幕編輯工具，支援 SRT/ASS/SSA 格式，內置簡繁體轉換、Word 模式、快照對比等強大功能。**
 
 ## 📋 目錄
@@ -560,24 +575,6 @@ MIT License
 - 請避免將敏感檔案（例如密碼、私密資料）放喺同一資料夾，否則伺服器開啟後可能被瀏覽器讀取。
 - GitHub **唔會自動執行**此檔案，只有使用者手動執行先會生效。
 - 建議只用於學習或測試用途。
-
-🚀 快速開始
-Windows
-前置需求:
-安裝 Python 3.8+
-執行 run.bat
-
-macOS
-前置需求:
-安裝 xcode-select --install
-執行 start.command
-
-Linux 啟動
-前置需求:
-sudo apt install python3  # Ubuntu/Debian
-sudo dnf install python3  # Fedora/RHEL
-sudo pacman -S python     # Arch
-執行 start.sh 啟動
 
 ## 📄 License
 此檔案僅供學習及示範用途，請勿用於生產環境。
